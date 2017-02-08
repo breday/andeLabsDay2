@@ -15,5 +15,5 @@ def word_frequency(string):
     return word_dict
 
 
-print(word_frequency("  "))
+print(word_frequency("1 2 1 2 testing 1 2 1 2 testing"))
 
