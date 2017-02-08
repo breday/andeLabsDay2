@@ -1,6 +1,6 @@
 #using dict to determine word count 
 def word_frequency(string):
-	#create dictonary tstore results
+	#create dictonary to store results
     word_dict = {}
 
 #code split the string 
