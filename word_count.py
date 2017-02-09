@@ -1,6 +1,6 @@
 #using dict to determine word count 
-def word_frequency(string):
-	#create dictonary to store results
+def words(string):
+	#create dictonary tstore results
     word_dict = {}
 
 #code split the string 
@@ -15,5 +15,4 @@ def word_frequency(string):
     return word_dict
 
 
-print(word_frequency("1 2 1 2 testing 1 2 1 2 testing"))
-
+print(words(" 1 2 1 2 testing 1 2 1 2 testing "))
